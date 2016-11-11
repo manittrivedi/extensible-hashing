@@ -3,7 +3,7 @@ import java.util.Scanner;
 import VO.*;
 
 /**
- * @author 16MCEC26
+ * @author 16MCEC26 Manit Trivedi
  *
  */
 public class ExtHashing {
